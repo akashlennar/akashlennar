@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashlennar
-- 👀 I’m interested in html,css,javascript and python.
+- 👀 I’m interested in web-development.
 - 🌱 I’m currently learning javascript and python but completed html and css. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +919516324926 and lennarakash@gmail.com
